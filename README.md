@@ -5,6 +5,11 @@ This study addresses image classification challenges associated with American Si
 
 Data split 60% for trainning, 20% for testing and 20% for validation
 Result : 
+Training Accuracy : 1.0
+Validation Accuracy : 0.4041666666666667
+Testing Accuracy : 0.42291666666666666
+
+Base on the result, there is overfitting in this study. Thus, it may proceed some solutions to fix it such as image preprocessing.
 
 ## Dataset link (Google drive)
 https://drive.google.com/file/d/15d5_LmT4KOiAjq4uTqr7F4aW5E9Hapk6/view?usp=drive_link
