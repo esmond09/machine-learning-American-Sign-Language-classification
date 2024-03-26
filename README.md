@@ -12,7 +12,14 @@ Validation Accuracy : 0.4041666666666667
 
 Testing Accuracy : 0.42291666666666666
 
+![image](https://github.com/esmond09/machine-learning-classification/assets/130723274/8f0291ad-1cdd-4d32-83b2-1c3328f5f57f)
+
+
 Base on the result, there is overfitting in this study. Thus, it may proceed some solutions to fix it such as image preprocessing.
+
+## Confusion Matrix
+![image](https://github.com/esmond09/machine-learning-classification/assets/130723274/00d1b5f2-4ab7-4979-a4a3-6c0ce5500bae)
+
 
 ## Dataset link (Google drive)
 https://drive.google.com/file/d/15d5_LmT4KOiAjq4uTqr7F4aW5E9Hapk6/view?usp=drive_link
