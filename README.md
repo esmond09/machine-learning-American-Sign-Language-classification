@@ -4,9 +4,12 @@
 This study addresses image classification challenges associated with American Sign Language (ASL) by using support vector machines (SVM) models to train a dataset of 20 classes, each class containing a class of 30 example images. 
 
 Data split 60% for trainning, 20% for testing and 20% for validation
+
 Result : 
 Training Accuracy : 1.0
+
 Validation Accuracy : 0.4041666666666667
+
 Testing Accuracy : 0.42291666666666666
 
 Base on the result, there is overfitting in this study. Thus, it may proceed some solutions to fix it such as image preprocessing.
