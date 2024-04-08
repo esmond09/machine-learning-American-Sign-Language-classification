@@ -1,4 +1,4 @@
-# machine-learning-classification
+# machine learning American Sign Language classification
 
 ## Description
 This study addresses image classification challenges associated with American Sign Language (ASL) by using support vector machines (SVM) models to train a dataset of 20 classes, each class containing a class of 30 example images. 
